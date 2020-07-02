@@ -1,0 +1,11 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+User-agent: Baiduspider
+Disallow: 
+User-agent: YodaoBot
+Disallow: 
+User-agent: Googlebot
+Disallow: 
+User-agent: *
+Disallow: 
+Crawl-delay: 5
+Disallow: /bin/
