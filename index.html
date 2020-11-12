@@ -12,6 +12,25 @@
     <link href="styles/main.css" rel="stylesheet">
   </head>
   <body id="top">
+  <script>
+    var num = document.getElementsByTagName('img').length;
+    var img = document.getElementsByTagName("img");
+    var n = 0; 
+    lazyload(); /
+    window.onscroll = lazyload;
+    function lazyload() { 
+        var seeHeight = document.documentElement.clientHeight; 
+        var scrollTop = document.documentElement.scrollTop || document.body.scrollTop; 
+        for (var i = n; i < num; i++) {
+            if (img[i].offsetTop < seeHeight + scrollTop) {
+                if (img[i].getAttribute("src") == "default.jpg") {
+                    img[i].src = img[i].getAttribute("data-src");
+                }
+                n = i + 1;
+            }
+        }
+    }
+</script>
     <div class="page">
       <header>
         <div class="pp-header">
@@ -220,7 +239,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/1-1.jpg" preload="auto" controls="controls" loop="loop" autoplay="autoplay" preload="auto">
+          <video width="360" title="video" poster="images/1-1.jpg"  controls="controls" loop="loop" autoplay="autoplay" preload="none">
              <source src="images/2.mp4" type="video/mp4">
            </video>     
          </div>
@@ -230,7 +249,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/qs-4.jpg" preload="auto" controls="controls" loop="loop"  autoplay="autoplay"preload="none">
+          <video width="360" title="video" poster="images/qs-4.jpg"  controls="controls" loop="loop"  autoplay="autoplay"preload="none">
              <source src="images/3.mp4" type="video/mp4">
            </video>     
          </div>
@@ -240,7 +259,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/qs-3.jpg" preload="auto" controls="controls" loop="loop"preload="none" autoplay="autoplay">
+          <video width="360" title="video" poster="images/qs-3.jpg"  controls="controls" loop="loop"preload="none" autoplay="autoplay">
              <source src="images/4.mp4" type="video/mp4">
            </video>     
          </div>
@@ -250,7 +269,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/qs-2.jpg" preload="auto" controls="controls" loop="loop"  autoplay="autoplay"preload="none">
+          <video width="360" title="video" poster="images/qs-2.jpg"  controls="controls" loop="loop"  autoplay="autoplay"preload="none">
              <source src="images/5.mp4" type="video/mp4">
            </video>     
          </div>
@@ -260,7 +279,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/qs-1.jpg" preload="auto" controls="controls" loop="loop"  autoplay="autoplay"preload="none">
+          <video width="360" title="video" poster="images/qs-1.jpg"  controls="controls" loop="loop"  autoplay="autoplay"preload="none">
              <source src="images/samho.mp4" type="video/mp4">
            </video>     
          </div>
@@ -270,7 +289,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/9-nature.jpg" preload="auto" controls="controls" loop="loop" autoplay="autoplay"preload="none" >
+          <video width="360" title="video" poster="images/9-nature.jpg"  controls="controls" loop="loop" autoplay="autoplay"preload="none" >
              <source src="images/1.mp4" type="video/mp4">
            </video>     
          </div>
@@ -280,7 +299,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/9-nature.jpg" preload="auto" controls="controls" loop="loop" autoplay="autoplay" preload="none">
+          <video width="360" title="video" poster="images/9-nature.jpg"  controls="controls" loop="loop" autoplay="autoplay" preload="none">
              <source src="images/6.mp4" type="video/mp4">
            </video>     
          </div>
@@ -290,7 +309,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/9-nature.jpg" preload="auto" controls="controls" loop="loop" autoplay="autoplay" preload="auto">
+          <video width="360" title="video" poster="images/9-nature.jpg" preload="none" controls="controls" loop="loop" autoplay="autoplay" >
              <source src="images/7.mp4" type="video/mp4">
            </video>     
          </div>
@@ -300,7 +319,7 @@
               <p>video</p>
             </figcaption>
           </figure>
-          <video width="360" title="video" poster="images/9-nature.jpg" preload="auto" controls="controls" loop="loop"  autoplay="autoplay"preload="none">
+          <video width="360" title="video" poster="images/9-nature.jpg"  controls="controls" loop="loop"  autoplay="autoplay"preload="none">
              <source src="images/8.mp4" type="video/mp4">
            </video>     
          </div>
@@ -566,6 +585,149 @@
               <p>Shanghai</p>
             </figcaption>
           </figure></a></div>
+          	<div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b1.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b1.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+          	<div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b2.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b2.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+          	<div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b3.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b3.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>city</p>
+            </figcaption>
+          </figure></a></div>
+        <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b4.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b4.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+        <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b5.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b5.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>City</p>
+            </figcaption>
+          </figure></a></div>
+        <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b6.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b6.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+        <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b7.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b7.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+        <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b8.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b8.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+        <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b9.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b9.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+        <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b10.jpg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b10.jpg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div> <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b11.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b11.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+         <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b12.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b12.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+         <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b13.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b13.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>City</p>
+            </figcaption>
+          </figure></a></div>
+         <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b14.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b14.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+         <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b15.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b15.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
+         <div class="card" data-groups="[&quot;people&quot;]">
+		<a href="picture/b16.jpeg"target="_blank">
+          <figure class="pp-effect">
+			  <img class="img-fluid" src="picture/b16.jpeg"alt="people"/>
+            <figcaption>
+              <div class="h4">People</div>
+              <p>Business</p>
+            </figcaption>
+          </figure></a></div>
   </div>
 </div>
 <div class="pp-section"></div></div>
@@ -575,15 +737,27 @@
           <div class="row text-center">
             <div class="col-md-12"><a class="pp-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="pp-twitter btn btn-link " href="#"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="pp-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a><a class="pp-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
             <div class="col-md-12">
-              <p class="mt-3">Copyright &copy; 2019.Samho Club web<a target="_blank" href="http://www.aspku.com/moban/">&nbsp;</a></p>
+              <p class="mt-3">Copyright &copy; 2019.Samho Club web<a target="_blank" href="http://www.oneshu.xyz">&nbsp;</a></p>
             </div>
           </div>
         </div>
       </footer>
-    </div><meta name=”Keywords” Content=”design,creat,设计,山合,picture,图片,art,艺术″
+    </div>
+    <meta name=”Keywords” Content=”design,creat,设计,山合,picture,图片,art,艺术″>
 
->
-<script type="application/ld+json">
+<script src="//instant.page/5.1.0" type="module" integrity="sha384-
+
+by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+<script type="text/javascript" src="path/to/script1.js" async></script>
+<script 
+
+type="text/javascript" src="path/to/script2.js" async></script>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="scripts/main.js"></script>
+    <script type="application/ld+json">
   {
     "@context": "https://schema.org",
 ​    
@@ -598,17 +772,5 @@
 
 }
 </script>
-<script src="//instant.page/5.1.0" type="module" integrity="sha384-
-
-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
-<script type="text/javascript" src="path/to/script1.js" async></script>
-<script 
-
-type="text/javascript" src="path/to/script2.js" async></script>
-
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="scripts/main.js"></script>
   </body>
 </html>
