@@ -16,7 +16,7 @@
 
 我们不缺乏工作量评估的标准方法和体系，但同时我们也认为如果双方都基于信任的关系来合作，你有权基于你提供的价值获得你认为合理的报酬，这样能动性才能被激励。当然，前提是团队的其他成员认为你的报酬也是合理的。
 
-展示网站：www.samho.club
+展示网站：www.321one.com
 
 官网：www.mline.top
 
@@ -38,4 +38,4 @@ The mountains have no edges and heaven and earth are united, outstanding and unt
 
 We don't lack standard methods and systems for evaluating workload, but we also believe that if both parties work together based on a relationship of trust, you are entitled to be paid what you think is fair based on the value you provide, so that motivation can be incentivized. That is, of course, if the rest of the team believes that your compensation is also reasonable.
 
-www.samho.club
+www.321one.com
