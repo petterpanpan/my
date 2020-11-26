@@ -35,7 +35,7 @@ We will run a usability testing session in the room that you will need to docume
 What you need to bring: you must arrive with a chosen software project as your case study and bring a pen.
 
 ### How do I register?
-[Register now](https://aceu19.apachecon.com/open-source-design-workshop) and save your spot.
+https://aceu19.apachecon.com/open-source-design-workshop and save your spot.
 
 In order to register we require a deposit of €10 which will be refunded onsite.
 

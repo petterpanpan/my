@@ -1,14 +1,3 @@
----
-layout: event
-title:  "Open Design @ Open UP global summit: Taipei, Nov 30th - Dec 7th"
-date:   2019-11-30
-categories: design hack meeting
-eventDate: Sunday,1st Dec 2019 & Saturday, 7th Dec 2019
-location: Taipei, Taiwan
-time: two half days
-status: future
----
-
 A workshop organised by the team from Open Design + Ushahidi hosted and supported by [Open UP global summit](https://www.openup.global/). It will take place in Taipei, Taiwan.
 
 The ‘Open Design’ workshop which is testing a methodology, workshop structure, and repo/file set-up in order to see if we can boost design contributions to a specific open-source product. For the first two workshops, we’re using Ushahidi’s TenFour tool which is a crisis communication tool.
