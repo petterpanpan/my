@@ -1,15 +1,3 @@
----
-layout: event
-title:  "Cheap, easy and illuminating – how to plan, run and analyse usability studies workshop"
-date:   2019-10-25
-categories: conference , workshop
-eventDate: Fri, 25 Oct 2019
-location: Room yet to be confirmed at c-base, Rungestraße 20, 10179 Berlin, Germany
-time: 10:00 - 14:00
-status: past
-permalink: /2019/10/22/opensourcedesign-usability-workshop-apachecon-eu-2019
----
-
 This year for the first time, Apache Foundation has invited the Open Source Design collective to curate the first track about user-centred design.
 
 As part of the user-centred design track we are running "Cheap, easy and illuminating – how to plan, run and analyse usability studies" workshop.

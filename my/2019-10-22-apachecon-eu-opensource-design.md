@@ -1,14 +1,3 @@
----
-layout: event
-title:  "Open Source Design track at ApacheCon Europe 2019"
-date:   2019-10-22
-categories: conference
-eventDate: 22  - 24 Sat, 2 Feb 2019
-location: Room not yet confirmed, Kulturbrauerei, Schönhauser Allee 36 10435 Berlin, Germany
-time: full days
-status: past
----
-
 [ApacheCon EU](https://aceu19.apachecon.com/) is the Apache Software Foundation's European conference
 about the latest innovations in containers, cloud, DevOps, IoT, servers, web frameworks, plus many other Apache projects and communities (including user-centred design!) in a collaborative, vendor-neutral environment.
 
