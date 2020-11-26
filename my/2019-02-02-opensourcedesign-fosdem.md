@@ -1,14 +1,3 @@
----
-layout: event
-title:  "Call for Participation: Open Source Design Devroom at FOSDEM 2019"
-date:   2019-02-02
-categories: design hack meeting
-eventDate: Sat, 2 Feb 2019
-location: Room not yet confirmed, Solbosch campus - Université Libre Brussels, Brussels, Belgium
-time: full days
-status: past
----
-
 [FOSDEM](https://fosdem.org) is the Free and Open source Software Developers’ European Meeting, a free and non-commercial two-day weekend event that offers **all** open source contributors a place to meet, share ideas, learn and collaborate.
 
 After successful runs in 2015, 2016, 2017 and 2018, there will be a design devroom at FOSDEM 2019!

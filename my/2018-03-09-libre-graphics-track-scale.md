@@ -1,14 +1,3 @@
----
-layout: event
-title: "Libre Graphics Track at Southern California Linux Expo (SCaLE) 2018"
-date: 2018-03-09
-categories: design hack meeting graphics
-eventDate: Fri, 9 Mar 2018
-location: Pasadena Convention Center, Pasadena, CA USA
-time: full day
-status: past
----
-
 SCaLE 16X – the 16th annual Southern California Linux Expo – will take place on March. 8-11, 2018, at the [Pasadena Convention Center](https://www.socallinuxexpo.org/scale/16x/venue).
 SCaLE 16X expects to host 150 exhibitors this year, along with nearly 130 sessions, tutorials and special events.
 SCaLE is the largest community-run open-source and free software conference in North America. It is held annually in the greater Los Angeles area.
