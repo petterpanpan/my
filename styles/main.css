@@ -185,7 +185,10 @@ a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
 }
 
 a:not([href]):not([tabindex]):focus {
-  outline: 0;
+    outline: 0;
+    text-align: center;
+    font-size: 2rem;
+    font-family: inherit;
 }
 
 pre,
