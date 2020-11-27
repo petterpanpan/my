@@ -16,6 +16,10 @@ github_handle: ''
 tags: 'logo, branding, illustration, typography'
 date: '2020-11-23T14:08:22.929Z'
 ---
+how_to_apply:
+
+  - jobs-brand@simplysecure.org
+
 We’re looking for a designer to create the visual identity elements of an anti-phishing tool launching in February 2021.
 
 Deadline: December 4, 2020
