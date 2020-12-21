@@ -114,7 +114,14 @@
            <lastmod>2020-12-16</lastmod>
            <changefreq>daily</changefreq>
            <priority>0.8</priority>
+       </url> 
+       <url>
+           <loc>http://www.321one.com/9.html</loc>
+           <lastmod>2020-12-18</lastmod>
+           <changefreq>daily</changefreq>
+           <priority>0.8</priority>
        </url>
+
         <url>
            <loc>http://www.321one.com/job.html</loc>
            <lastmod>2020-12-16</lastmod>
