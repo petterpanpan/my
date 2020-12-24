@@ -152,4 +152,10 @@
            <changefreq>daily</changefreq>
            <priority>0.8</priority>
        </url>
+       url>
+           <loc>http://www.321one.com/11.html</loc>
+           <lastmod>2020-12-24</lastmod>
+           <changefreq>daily</changefreq>
+           <priority>0.8</priority>
+       </url>
    </urlset>
