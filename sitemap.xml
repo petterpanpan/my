@@ -55,6 +55,18 @@
            <changefreq>daily</changefreq>
            <priority>0.8</priority>
        </url>
+       <url>
+           <loc>http://www.321one.com/blog7.html</loc>
+           <lastmod>2020-12-15</lastmod>
+           <changefreq>daily</changefreq>
+           <priority>0.8</priority>
+       </url>
+       <url>
+           <loc>http://www.321one.com/blog8.html</loc>
+           <lastmod>2020-12-15</lastmod>
+           <changefreq>daily</changefreq>
+           <priority>0.8</priority>
+       </url>
 <url>
            <loc>http://www.321one.com/blog-post.html</loc>
            <lastmod>2020-12-15</lastmod>
@@ -152,8 +164,20 @@
            <changefreq>daily</changefreq>
            <priority>0.8</priority>
        </url>
-       url>
+       <url>
            <loc>http://www.321one.com/11.html</loc>
+           <lastmod>2020-12-24</lastmod>
+           <changefreq>daily</changefreq>
+           <priority>0.8</priority>
+       </url>
+       <url>
+           <loc>http://www.321one.com/14.html</loc>
+           <lastmod>2020-12-24</lastmod>
+           <changefreq>daily</changefreq>
+           <priority>0.8</priority>
+       </url>  
+       <url>
+           <loc>http://www.321one.com/13.html</loc>
            <lastmod>2020-12-24</lastmod>
            <changefreq>daily</changefreq>
            <priority>0.8</priority>
