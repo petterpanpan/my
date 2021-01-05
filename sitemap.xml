@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
    <urlset>
     
@@ -15,8 +15,8 @@
        </url>
        <url>
            <loc>http://www.321one.com/about.html</loc>
-           <lastmod>2020-11-28</lastmod>
-           <changefreq>daily</changefreq>
+           <lastmod>2021-01-05</lastmod>
+           <changefreq>weekly</changefreq>
            <priority>0.9</priority>
        </url>
 <url>
@@ -70,43 +70,43 @@
 <url>
            <loc>http://www.321one.com/blog-post.html</loc>
            <lastmod>2020-12-15</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
 <url>
            <loc>http://www.321one.com/blog-post2.html</loc>
            <lastmod>2020-12-15</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
 <url>
            <loc>http://www.321one.com/blog-post3.html</loc>
            <lastmod>2020-12-16</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
 <url>
            <loc>http://www.321one.com/blog-post4.html</loc>
            <lastmod>2020-12-16</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
 <url>
            <loc>http://www.321one.com/blog-post5.html</loc>
            <lastmod>2020-12-16</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
        <url>
            <loc>http://www.321one.com/blog-post6.html</loc>
            <lastmod>2020-12-16</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
        <url>
            <loc>http://www.321one.com/blog-post7.html</loc>
            <lastmod>2020-12-16</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
        <url>
@@ -161,13 +161,13 @@
        <url>
            <loc>http://www.321one.com/10.html</loc>
            <lastmod>2020-12-22</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
        <url>
            <loc>http://www.321one.com/11.html</loc>
            <lastmod>2020-12-24</lastmod>
-           <changefreq>daily</changefreq>
+           <changefreq>weekly</changefreq>
            <priority>0.8</priority>
        </url>
        <url>
