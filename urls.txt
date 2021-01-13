@@ -39,6 +39,7 @@ http://www.321one.com/14.html
 http://www.321one.com/new1.html
 http://www.321one.com/new2.html
 http://www.321one.com/new3.html
+http://www.321one.com/new4.html
 http://www.321one.com/404.html
 http://www.321one.com/about.html
 curl -H 'Content-Type:text/plain' --data-binary @urls.txt "http://data.zz.baidu.com/urls?site=https://www.321one.com&token=RlzK3dOQrTrtJck6"
