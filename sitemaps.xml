@@ -7,6 +7,30 @@
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
     
+       
+       
+        <url>
+           
+           <loc>http://www.321one.com/知识好物.html</loc>
+          
+           <lastmod>2021-01-28</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.8</priority>
+           
+       </url>
+       <url>
+           
+           <loc>http://www.321one.com/一个人最大的能力不是经济独立，也不是事业有成，而是.......html</loc>
+          
+           <lastmod>2021-01-28</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.3</priority>
+           
+       </url>
        <url>
            
            <loc>http://www.321one.com/index.html</loc>
