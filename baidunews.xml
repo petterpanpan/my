@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document>
+<urlset>
 <webSite>http://www.321one.com/</webSite>
 <webMaster>SAMHO Club</webMaster>
 <webMaster>1400778647@qq.com</webMaster>
 <updatePeri>600</updatePeri>
-<item>
+<url>
 <title>
 <![CDATA[抢茅台是真火，项目也是倒下一个站起来一片，现分享一个免配置京东抢茅台程序。
 mtSeckill项目来自github，原作者已编译好发布版。]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/new4.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[京东抢茅台工具]]>
 </description>
@@ -43,14 +43,14 @@ mtSeckill项目来自github，原作者已编译好发布版。
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2021-01-13 10:29</pubDate>
-</item>
-<item>
+</url>
+<url>
 <title>
 <![CDATA[看电影，搜资源神器。云盘精灵，只要是公开资源，且在百度网盘存储，几乎都能搜到。上网神器”油猴脚本]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/1.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[看电影，搜资源神器，你懂的]]>
 </description>
@@ -80,14 +80,14 @@ https://www.pianku.tv/
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-16 10:29</pubDate>
-</item>
-<item>
+</url>
+<url>
 	<title>
 <![CDATA[[Windows] 老马家买的去头去尾版爱剪辑]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/blog.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[看电影，搜资源神器，你懂的]]>
 </description>
@@ -118,15 +118,15 @@ The billboards started popping up around Minneapolis in June. “Uptown reels af
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-16 10:29</pubDate>
-</item>
+</url>
 
-<item>
+<url>
 <title>
 <![CDATA[自由职业、在家办公，大势所趋，分享一些相关平台。看电影，搜资源神器。云盘精灵，只要是公开资源，且在百度网盘存储，几乎都能搜到。虽然收费，但十分便宜，白菜价。]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/blog3.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[自由职业、在家办公，大势所趋，分享一些相关平台。]]>
 </description>
@@ -165,15 +165,15 @@ http://clg8.org
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-15 10:29</pubDate>
-</item>
+</url>
 
-<item>
+<url>
 <title>
 <![CDATA[[Windows] 最新版，最新版EverythingV1.4.1.999，值得留念的版本号]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/blog4.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[最新版，最新版Everything，下载软件是“IDM”，万彩办公大师，包含60多个办公常用小工具，格式转化、录屏录音、图片编辑、ORC识别... 全部免费使用。]]>
 </description>
@@ -209,15 +209,15 @@ The company's charging software, regular, not to speak of brilliant, but is free
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-15 10:29</pubDate>
-</item>
-<item>
+</url>
+<url>
 <title>
 <![CDATA[呼吁“废除硅谷”，彻底改造科技产业，渐进式变革能否改变未来？
 A Call to ‘Abolish Silicon Valley’ and Remake the Tech Industry for Good]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/blog-post10.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[呼吁“废除硅谷”，彻底改造科技产业，渐进式变革能否改变未来？]]>
 </description>
@@ -265,14 +265,14 @@ Liu的接受是她的主要观点。不仅仅是仓库工人和优步司机最�
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-15 10:29</pubDate>
-</item>
-<item>
+</url>
+<url>
 <title>
 <![CDATA["绝对出色"： 没有人在试验中接种了 Moderna 的疫苗， 开发出了严重的 COVID - 19]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/blog-post9.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[‘Absolutely remarkable’: No one who got Moderna's vaccine in trial developed severe COVID-19]]>
 </description>
@@ -308,15 +308,15 @@ Moderna希望到年底向美国政府提供2000万剂，辉瑞公司表示，它
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-16 09:29</pubDate>
-</item>
-<item>
+</url>
+<url>
 <title>
 <![CDATA[[Windows] 万彩办公大师工具合集（好工具免费）
 Wancai office master tools collection (good tools are free)]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/blog-post8.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[‘[Windows] 万彩办公大师工具合集（好工具免费）
 Wancai office master tools collection (good tools are free)]]>
@@ -350,16 +350,16 @@ http://files.wofficebox.com/officebox/download/OfficeBox_ setup_ v3.0.zip
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-16 09:29</pubDate>
-</item>
+</url>
 
-<item>
+<url>
 <title>
 <![CDATA[珍藏的电子书网站，全部免费
 Valuable e-book sites, all free!]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/blog-post5.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[分享一批珍藏的电子书网站，全部免费，资源超多，价值无限。]]>
 </description>
@@ -406,14 +406,14 @@ All of the above are personally tested and easy to use, so if you also feel good
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-16 09:29</pubDate>
-</item>
-<item>
+</url>
+<url>
 <title>
 <![CDATA[无水印视频下载，支持100+平台，做短视频自媒体能用到]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/9.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[无水印视频下载，支持100+平台，做短视频自媒体能用到]]>
 </description>
@@ -444,14 +444,14 @@ The force of this artifact is that it supports multi-platform short video withou
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-18 09:29</pubDate>
-</item>
-<item>
+</url>
+<url>
 <title>
 <![CDATA[公众号文章下载软件，这是目前的最新版，软件免费下载使用。]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/11.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[Via浏览器，极简风格，零广告，能装插件，功能强大。]]>
 </description>
@@ -482,15 +482,15 @@ The force of this artifact is that it supports multi-platform short video withou
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2020-12-24 09:29</pubDate>
-</item>
+</url>
 
-<item>
+<url>
 <title>
 <![CDATA[免费在线视频解析下载工具，支持200多个视频网站]]>
 </title>
-<link>
+<loc>
 <![CDATA[http://www.321one.com/14.html]]>
-</link>
+</loc>
 <description>
 <![CDATA[免费在线视频解析下载工具，支持200多个视频网站，国内外主流平台基本都可以搞定，YouTube、Facebook、CNN、Youku、56、Ku6]]>
 </description>
@@ -520,5 +520,5 @@ https://youtube.online-downloader.com/index-Chinese
 <![CDATA[山合文化]]>
 </source>
 <pubDate>2021-01-04 09:29</pubDate>
-</item>
-</document>
+</url>
+</urlset>
