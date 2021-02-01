@@ -1,12 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
-    
+     <url>
+           
+           <loc>http://www.321one.com/真正适合你的工作是什么？.html</loc>
+          
+           <lastmod>2021-02-01</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.3</priority>
+           
+       </url>
+        <url>
+           
+           <loc>http://www.321one.com/一个人最大的能力不是经济独立，也不是事业有成，而是.......html</loc>
+          
+           <lastmod>2021-02-01</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.3</priority>
+           
+       </url>
+        <url>
+           
+           <loc>http://www.321one.com/神秘的52张心理学卡牌！最后留下的，就是你内心最深的渴求.html</loc>
+          
+           <lastmod>2021-02-01</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.3</priority>
+           
+       </url>
+       <url>
+           
+           <loc>http://www.321one.com/马云给我的启示：饭局上这2种人，我绝对不会重用！.html</loc>
+          
+           <lastmod>2021-02-01</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.3</priority>
+           
+       </url>
+       <url>
+           
+           <loc>http://www.321one.com/麦玲玲十二生肖2021年运势.html</loc>
+          
+           <lastmod>2021-02-01</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.3</priority>
+           
+       </url>
+       <url>
+           
+           <loc>http://www.321one.com/知识好物.html</loc>
+          
+           <lastmod>2021-02-01</lastmod>
+          
+           <changefreq>daily</changefreq>
+           
+           <priority>0.9</priority>
+           
+       </url>
        <url>
            
            <loc>http://www.321one.com/index.html</loc>
