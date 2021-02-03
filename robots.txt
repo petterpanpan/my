@@ -1,0 +1,15 @@
+User-agent: Baiduspider
+Disallow: 
+User-agent: sogou spider
+Disallow: 
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: yahoo-blogs/v3.9
+Disallow: 
+User-agent: *
+Crawl-delay: 120
+Disallow:/bin/
+Sitemap: https://www.321one.com/sitemap.xml
+Sitemap: https://www.321one.com/sitemap.html
