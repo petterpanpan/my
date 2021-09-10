@@ -5,13 +5,100 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
-    
+             <url>
+           
+           <loc>http://www.321one.com/contact.html</loc>
+          
+           <lastmod>2021-09-10</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.8</priority>
+           
+       </url>
+             <url>
+           
+           <loc>http://www.321one.com/job.html</loc>
+          
+           <lastmod>2021-09-10</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.8</priority>
+           
+       </url> 
+             <url>
+           
+           <loc>http://www.321one.com/video.html</loc>
+          
+           <lastmod>2021-09-10</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.8</priority>
+           
+       </url> 
+             <url>
+           
+           <loc>http://www.321one.com/resources.html</loc>
+          
+           <lastmod>2021-09-10</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.8</priority>
+           
+       </url> 
+             <url>
+           
+           <loc>http://www.321one.com/project.html</loc>
+          
+           <lastmod>2021-09-10</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.8</priority>
+           
+       </url> 
+             <url>
+           
+           <loc>http://www.321one.com/video.html</loc>
+          
+           <lastmod>2021-09-10</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.8</priority>
+           
+       </url> 
+             <url>
+           
+           <loc>http://www.321one.com/about.html</loc>
+          
+           <lastmod>2021-09-10</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.9</priority>
+           
+       </url>    
+            <url>
+           
+           <loc>http://www.321one.com/picture.html</loc>
+          
+           <lastmod>2021-09-10</lastmod>
+          
+           <changefreq>weekly</changefreq>
+           
+           <priority>0.9</priority>
+           
+       </url>    
      
             <url>
            
            <loc>http://www.321one.com/index.html</loc>
           
-           <lastmod>2020-12-16</lastmod>
+           <lastmod>2021-09-10</lastmod>
           
            <changefreq>daily</changefreq>
            
@@ -672,165 +759,6 @@
 
 <url>
  <loc>http://www.321one.com/images/24-computer.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/images/13-people.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/e11.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/c11.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/c1.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/c18.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/b9.jpeg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/images/20-computer.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/c4.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/e7.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/e10.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/c24.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/e20.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/b16.jpeg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/images/30-food.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/c12.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/e9.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/c21.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/e13.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.321one.com/images/11-nature.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/e4.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.321one.com/images/23-computer.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/images/14-people.jpg</loc>
- <priority>0.3</priority>
- <lastmod>2021-01-14</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>http://www.321one.com/picture/e3.jpg</loc>
  <priority>0.3</priority>
  <lastmod>2021-01-14</lastmod>
  <changefreq>weekly</changefreq>
