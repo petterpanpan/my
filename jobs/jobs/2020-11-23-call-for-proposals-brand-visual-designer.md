@@ -1,80 +1,75 @@
----
-_id: 58bd7380-2d95-11eb-91d5-ede648636eae
-status: searching
-date_posted: '2020-11-23'
-layout: jobs
-organization: Anti-phishing tool
-org_url: 'https://simplysecure.org/hiring/brand-designer-cfp.html'
-title: Call for Proposals — Brand/Visual Designer
-role: Branding Identity
-compensation: paid
-deliverables: "You’ll propose, create, and deliver an identity and design system that includes:\r\n    A logo\r\n    Logotype\r\n    A brand mascot\r\n    Illustrations\r\n    Typography\r\n    Color palette\r\n    Guidelines for usage (dos and don’ts)"
-how_to_apply:
-  - jobs-brand@simplysecure.org
-  - 'https://simplysecure.org/hiring/brand-designer-cfp.html'
-github_handle: ''
-tags: 'logo, branding, illustration, typography'
-date: '2020-11-23T14:08:22.929Z'
----
-how_to_apply:
+## 兼职创意/视觉设计师
 
-  - jobs-brand@simplysecure.org
+## 岗位特色：
 
-We’re looking for a designer to create the visual identity elements of an anti-phishing tool launching in February 2021.
+没有996，没有加班，远程办公，提成优厚，弹性工作。
 
-Deadline: December 4, 2020
+用你的时尚触觉与一群活泼友爱的小伙伴一起，将视觉艺术提升一个Level。
 
-*The project*
+你将负责品牌产品一切美的、创新工作，扮演一切你想扮演的角色。
 
-    We are looking for someone who can bring their expertise in crafting product identities to a new, global tool that helps at-risk users (human rights defenders, journalists, activists, NGOs) stay safe online. The tool is launching in February 2021.
-    You’ll propose, create, and deliver an identity and design system that includes:
-        A logo
-        Logotype
-        A brand mascot
-        Illustrations
-        Typography
-        Color palette
-        Guidelines for usage (dos and don’ts)
-    The identity system for this free tool is not intended to impress investors and convert customers. Instead, it will help users understand the tool and establish consistent patterns and metaphors to increase usability and trustworthiness.
-    Several identity guidelines are already in place, including: mission, vision, values, audience, personality.
-    The identity system will be implemented into a browser extension, informational website, and extension marketplaces on Chrome and Firefox.
-    This is a time-limited contract, from approximately November 2020 to February 2021. We are a US 501(c)3 organization that has the ability to hire in the US and Germany, and contract internationally.
-    We are inspired by work like:
-        Tunnelbear - Consistent branding with expressive and approachable metaphors
-        Signal - Breezy confidence and straight-talking makes the tool approachable to a mainstream audience
-        Tails - Strong graphical metaphor for communicating complex functionality, in a human, emotional way
-        Mailvelope - Meaningful logo design and integrated, clear concept.
+我们需要保持对设计有热诚、时髦有想法、独立有个性的你，与我们一起打造
 
-*About us*
+公司视觉产品的“焕新”升级！
 
-We are a small US 501(c)3 nonprofit organization, founded in 2014 with the goal of making security tools easier to use. We believed – and still do – that security doesn’t have to be confusing to end users. We’ve contributed design to a variety of tools that enhance security, such as Tails to I2P to NoScript. We’ve held salons and a residency around designing for security. But we’ve done a lot more than usable security. Just in the last year, we’ve launched a decentralization pattern library; a report on trust and transparency in nonprofit funding; a campaign to save internet freedom tech; a community around human rights centered design; a series of videos about trust and responsibility in design; and much, much more.
+多维度的工作模式，比扁平化更加符合时代需求的企业架构和文化。属于年轻人自己
 
-(We’re actually doing a rebranding process, moving away from the name “Simply Secure.” More info over here on the blog!)
+的工作生活方式。不用再为坑爹客户和坑爹老板苦恼，对内卷说不。
 
-*About you*
+## 岗位职责：
 
-    You love designing identity systems. You get really excited about telling a visual story of a tool that is designed to help people.
-    You design expressive and accessible screens, logos, and illustrations, meant to be viewed on the web
-    You like working independently, in collaboration with a fully remote team
-    You are comfortable advocating for yourself and your work to make sure that you’re getting what you need from us
-    Your meeting availability has sufficient overlap with our working hours of 10am to 6pm Central European Time. The project team is based in Germany.
+1、 根据产品的特点，提出构思新颖、有高度吸引力的创意设计；
 
-*Nice to have*
+2、  拥有宽广的行业如平面设计和品牌设计与时尚的审美标准；
 
-    Awareness of one or more of the following areas: open source software, internet freedom, tech criticism and activism, human rights
-    Experience in developing brands
-    Expert in communicating with international audiences
-    Knowledge of accessibility standards
+3、 富有激情、积极主动、关注细节、学习能力; 表达和沟通能力良好，注重团队协作。
 
-Sound like a good fit?
+4、 能够灵活控制设计风格，应对不同的设计要求，适应工作中保持变化。
 
-Please send us:
+5、 和多部门多种人才一起配合开发产品，有良好的情商。
 
-    3-5 examples of your work. Please highlight the projects with quick turn-around times (less than 3 months) and tell us about the timeline and process: how did these projects get created? Who was involved, what did the process look like, how long did it take?
-    A (very short!) outline of how you would approach working with us on this project. What phases would this project have, and what would you need from us to make it successful?
-    1-2 references. References will be contacted in the last phase of application review.
-    The times you are available for meetings within our working hours (10am to 6pm Central European Time)
+## 任职要求：
 
-Send these documents to jobs-brand@simplysecure.org.
 
-Position is open until filled and applications will be evaluated on a rolling review. We will stop accepting applications on December 4, 2020.
+
+1、学历不限，美术、平面设计、视觉设计、广告、动画摄影等相关专业优先;非科班但优秀毕业生或者愿意做学徒工亦可。
+
+2、接受远程兼职办公这种工作模式。
+
+3、有良好的执行力和自律性，每天或每周都会给自己充电。
+
+4、有自媒体或教学经验优先。优秀独立设计师和自由职业者优先。
+
+5、结果导向型工作方式, 抗压能力强, 积极独立的创造力;
+
+6、理解尘渊文化的企业理念和工作方式，有较强的学习能力。
+
+7、请尽量投递作品集 ;
+
+## 岗位亮点：
+
+1、半自由职业的工作方式，可以获得丰厚的奖金，也不用过996的苦逼生活。
+
+2、开放式的企业文化和氛围，适合年轻的我们。
+
+3、你不是打工人，你有自己的主导权和独立性，简单的说我们把你当成年人看。
+
+4、一分耕耘，一分收获。我们承诺你的付出和回报是成正比的。
+
+5、远程办公，尽量少或者不开会。
+
+6、跨行业的合作和开发，不怕你没东西学，就怕你不肯学。
+
+7、我们的目标是培养通才，以未来为导向的职业规划。
+
+8、有提成和分红的艺术工作岗位，听都没听过吧。
+
+## 企业介绍：
+
+上海尘渊文化创意有限公司是一家成立于2021年9月的新型多元化公司。之前我们是一家全球性的自由职业者工作的开放社区，有100多名全球各地的设计，摄影，写作，运营，开发等人才加入我们。
+
+聚集各行各业创意创新人才，将创意和艺术融入生活服务 ， 营造拥有人文温度的场所精神 ， 促进人与人之间美好关系的发生 ，凝聚和连接跨界创新品牌 对新生活方式开展有价值的探索与实践。
+
+社区开放式平台的确很重要，但更重要的是激发一个区域的活力，这需要创新，需要连接，社区中的人才，人才的大脑，这些聪明的大脑之间的碰撞与连接！
+
+我们的使命：构建文化创意合作交流平台网，推动构建新商业服务模式和价值转换，让好创意真正服务于人的生产生活，真正实现创意让生活更美好的使命愿景！
